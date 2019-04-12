@@ -118,7 +118,7 @@ However, if there are particular other skills you'd like to pursue in addition t
 
 **Who should I turn to for help with this curriculum?**
 
-Like we teach students, you should spend some time trying to work through tricky bugs or concepts before you reach out for help. At the same time, you shouldn't spend a long time stuck. Thankfully, you are part of the best and friendliest code learning community around, so you have lots of people to turn to for help! You can lean on other developers on your campus,
+Like we tell students, you should spend some time trying to work through tricky bugs or concepts before you reach out for help. At the same time, you shouldn't spend a long time stuck. Thankfully, you are part of the best and friendliest code learning community around, so you have lots of people to turn to for help! You can lean on other developers on your campus,
 
 **I found a bug / clarification / great resource, how can I fix it / clarify it / add it to this curriculum?**
 

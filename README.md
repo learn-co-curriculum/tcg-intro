@@ -1,24 +1,30 @@
-# Intro to Technical Coach Growth Curriculum
+# Intro to Software Engineering Development Curriculum
 
 Welcome to Flatiron School! (or, if you were here before as a student, welcome back!)
 
-As a Technical Coach, you'll be helping students make their way through the Flatiron program. In order to support their technical growth, you need technical growth too! This curriculum will guide your technical growth over the next few months as you get ramped up as a teacher and continue to grow as a developer.
+As a Software Engineering Coach (SEC), you'll be helping students make their way through the Flatiron program. In order to support their technical growth, you need technical growth too! This curriculum will guide your technical growth over the next few months as you get ramped up as a teacher.
 
 ## Curriculum Overview
 
+The basic structure of the curriculum is in three sections:
+
 ```
-- Solidify Fundamentals
-- Intermediate and highly leveraged skills
-- Deeper Dives into adjacent topics
+- Solidifying Fundamentals
+- Intermediate Skills
+- Deeper Dives
 ```
 
-The curriculum will start by shoring up your fundamentals in Flatiron's core curriculum. In order to help students with ruby, Rails, javascript, and React, you need to make sure you feel comfortable with those languages, frameworks, and related tools. The fundamentals curriculum will move you quickly to a level of confidence in those concepts so that you feel prepared to teach them to students and help them debug issues they'll run into. Next, we'll cover tools and skills that will be super useful as you learn more. We'll follow that up with deeper dives into advanced topics on curriculum-adjacent material. We won't cover everything, but we'll give you enough depth and loose threads that you'll have plenty more to keep unraveling.
+The curriculum will start by shoring up your fundamentals in Flatiron's core curriculum. In order to help students with Ruby, Rails, Javascript, and React, you need to feel comfortable with those languages, frameworks, and related tools. The fundamentals curriculum will move you quickly to a level of confidence in those concepts so that you feel prepared to teach them to students and help them debug issues they'll run into. 
+
+Next, we'll cover tools and skills that will make you a faster and more capable developer. We'll follow that up with deeper dives into advanced topics on curriculum-adjacent material. We won't cover everything, but we'll give you enough depth and loose threads that you'll have plenty more to keep discovering.
 
 ## Principles
 
+These are the principles behind what is included in this curriculum.
+
 1. **Impactful**
 
-Do higher impact things sooner. Some content is better 'Leveraged' than others. For instance, testing, debugging, and benchmarking help you learn other concepts, while learning ActionCable only teaches you about ActionCable.
+Do higher impact things sooner. Some content is better 'leveraged' than other content. For instance, testing, debugging, and benchmarking help you learn other concepts, while learning ActionCable only teaches you about ActionCable.
 
 Similarly, better content has more impact per time spent. Some lessons will teach you more, faster, because they are higher quality learning experiences. For example, _Git Immersion_ is better than reading a Rails guide. It's better to do the better content sooner.
 
@@ -67,16 +73,20 @@ This curriculum will cover your first 17 weeks as a Software Engineering Coach. 
 
 Depending on the week and the progress of your students on campus, the amount of time you spend on this material in any given week will vary. You should work with the instructional team on campus - your SEM and the other instructors in particular - to figure out where in the calendar you can find time for this, while still maintaining the student support. Depending on the staffing needs for each cohort, this may mean shifting your progress through this curriculum to students' project week, so that they have all the support they need as they make progress through the core curriculum.
 
-> Note: Your priority as a TCF is first to your students success, then to your professional development. This curriculum will be super fun, but it doesn't supercede your work supporting students!
+> Note: Your priority as an SEC is first to your students success, then to your professional development. This curriculum will be super fun, but it doesn't supercede your work supporting students!
+
+Here's a sample schedule for what your progress through this curriculum might look like:
 
 ```
-Week 1 - Overview, Self-check, Review of Basics
-Weeks 2-4 - Solidifying ruby fundamentals, git, SQL, regex
-Weeks 5-8 - Solidifying javascript fundamentals, testing, debugging, benchmarking
+Week 1 - overview, self-check, review of language fundamentals
+Weeks 2-4 - solidifying language fundamentals, git, SQL
+Weeks 5-8 - regex, testing, debugging, benchmarking
 Week 8 - Midpoint Check-in
-Weeks 9-12 Deeper Dives, CSS, Algorithms, dev tools
-Weeks 13-17 Deeper Dives, Design, Computing, Engineering and deployment
+Weeks 9-12 css, design, data modeling, dev tools
+Weeks 13-17 algorithms and cs concepts, engineering and deployment
 ```
+
+Depending on your path through the material, your pace, what your students are learning, and when you get to spend time on this curriculum, your schedule will deviate from this one.
 
 ## FAQ
 
